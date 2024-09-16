@@ -1,0 +1,111 @@
+body{
+    background-color: white;
+}
+.containere{
+    background-color: #BFBBCB;
+    border: 2px #BFBBCB;
+    width: 1400px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: -25px;
+}
+
+.le{ background-color: #D7DEF1;
+    border: 2px #D7DEF1;
+    width: 600px;
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-top: 100px;
+
+}
+
+.descriptione{
+    background-color: #B1CFEB;
+    border: 2px blue;
+    width: 0px;
+    padding-left: 100px;
+    padding-right: 400px;
+    margin-top: 50px;
+    margin-right: 400px;
+    margin-left: 0px;
+
+}
+.imagese{
+    background-color: transparent;
+    border: 2px;
+    width: 400px;
+    padding-left: -1600px;
+    padding-right: 200px;
+    margin-top: 100px;
+
+}
+.titlee{
+    padding-right: 900px;
+    padding-left: 530px;
+    margin-right: 100px;
+}
+.title h1 {
+    margin-left: 500px;
+    margin-right: 100px;
+}
+.mewinge{
+    background-color: #5A85A9;
+    margin-left: 100px;
+    margin-right: 275px;
+}
+
+
+
+
+
+
+.containerhome{
+    background-color: #BFBBCB;
+    border: 2px #BFBBCB;
+    width: 1400px;
+    margin-left: 200px;
+    margin-right: 700px;
+    margin-top: -25px;
+}
+
+.lhome{ background-color: #D7DEF1;
+    border: 2px #D7DEF1;
+    width: 600px;
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-top: 100px;
+
+}
+
+.descriptionhome{
+    background-color: #B1CFEB;
+    border: 2px blue;
+    width: 800px;
+    padding-left: 100px;
+    padding-right: 400px;
+    margin-top: 50px;
+    margin-right: 400px;
+    margin-left: -400px;
+
+}
+.imageshome{
+    background-color: transparent;
+    border: 2px;
+    width: 400px;
+    padding-left: -1600px;
+    padding-right: 100px;
+    margin-top: 100px;
+    margin-right: 600;
+
+}
+.titlehome{
+    padding-right: 900px;
+    padding-left: 600 ;
+}
+.title h1{
+    margin-left: 500px;
+}
+
+
+
+

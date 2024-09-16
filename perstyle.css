@@ -1,0 +1,56 @@
+body{
+    background-color: white;
+}
+.containerp{
+    background-color: #BFBBCB;
+    border: 2px #BFBBCB;
+    width: 1400px;
+    margin-left: 200px;
+    margin-right: 700px;
+    margin-top: -25px;
+    height: 100px;
+}
+
+.lp{ background-color: #D7DEF1;
+    border: 2px #D7DEF1;
+    width: 600px;
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-top: 20px;
+
+}
+
+.descriptionp{
+    background-color: #B1CFEB;
+    border: 2px blue;
+    width: 400px;
+    padding-left: 100px;
+    padding-right: 200px;
+    margin-top: 50px;
+    margin-right: 600px;
+    margin-left: 0px;
+
+}
+.imagesp{
+    background-color: transparent;
+    border: 2px;
+    width: 400px;
+    padding-left: -1600px;
+    padding-right: 100px;
+    margin-top: 100px;
+
+}
+.titlep{
+    padding-right: 900px;
+    padding-left: 550px;
+}
+.title h1 {
+    margin-left: 500px;
+}
+.mewingp{
+    background-color: #5A85A9;
+    margin-left: 100px;
+    margin-right: 275px;
+    width: 270px;
+}
+
